@@ -5,22 +5,26 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-📋 Descrição do Projeto
+📋 Descrição do Projeto:
+
 O GetYourDog é uma landing page moderna e responsiva inspirada em aplicativos de relacionamento, mas com um foco divertido: ajudar cães a encontrarem o par ideal. O projeto foi desenvolvido para colocar em prática conceitos de layout, experiência do usuário (UX) e estilização rápida.
 
 🛠️ Ferramentas Utilizadas
+
 HTML5: Estruturação semântica da página.
 CSS3: Personalização de cores, fontes e espaçamentos.
 Bootstrap: Framework utilizado para garantir a responsividade (Mobile First).
 Design UX/UI: Foco na hierarquia visual e facilidade de navegação para o usuário.
 
 ✨ Funcionalidades
+
 [x] Design Responsivo: Adaptável para dispositivos móveis, tablets e desktops.
 [x] Componentes Bootstrap: Uso de Grids, Navigation Bars, e Cards.
 [x] Seção de Depoimentos: Carrossel interativo com fotos de cães "satisfeitos" com o serviço.
 [x] Tabelas de Preços: Comparativo de planos (Gratuito, Elite e Pro).
 
 🚀 Como visualizar
+
 1 - Clone este repositório:
 git clone https://github.com/gabrielmoura-dev/Tinder-para-seu-cachorro.git
 
