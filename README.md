@@ -19,8 +19,11 @@ Design UX/UI: Foco na hierarquia visual e facilidade de navegação para o usuá
 ✨ Funcionalidades
 
 [x] Design Responsivo: Adaptável para dispositivos móveis, tablets e desktops.
+
 [x] Componentes Bootstrap: Uso de Grids, Navigation Bars, e Cards.
+
 [x] Seção de Depoimentos: Carrossel interativo com fotos de cães "satisfeitos" com o serviço.
+
 [x] Tabelas de Preços: Comparativo de planos (Gratuito, Elite e Pro).
 
 🚀 Como visualizar
