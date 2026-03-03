@@ -29,6 +29,6 @@ Design UX/UI: Foco na hierarquia visual e facilidade de navegação para o usuá
 🚀 Como visualizar
 
 1 - Clone este repositório:
-git clone https://github.com/gabrielmoura-dev/Tinder-para-seu-cachorro.git
+git clone https://gabrielmoura-dev.github.io/Tinder-para-seu-cachorro/
 
 2 - Abra o arquivo index.html em qualquer navegador.
